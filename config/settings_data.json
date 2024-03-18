@@ -377,7 +377,8 @@
       ".product-reviews__submit-review {background-color: #252525;}",
       "button.product-form__submit.button--full-width {background-color: #000;}",
       ".announcement-bar__message {color: #fff;}",
-      ".badge {background-color: #000; color: #fff;}"
+      ".badge {background-color: #000; color: #fff;}",
+      ".banner__media {height: 100%; position: absolute; left: 0; top: 0; width: 100%;}"
     ]
   }
 }
