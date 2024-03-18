@@ -3,10 +3,8 @@
     "2bce6a44-7d65-451b-aef9-8248e1111b73": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/banner-desktop-back-to-the-gym-1NO.jpg",
-        "image_mobile": "shopify:\/\/shop_images\/banner-mobile-back-to-the-gym-9NO.jpg",
+        "image": "shopify:\/\/shop_images\/main-pernille.jpg",
         "image_url": "shopify:\/\/collections\/bestsellers",
-        "image2_url": "",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "middle-center",
@@ -56,7 +54,6 @@
         "16606547378d6748fc-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/usp-icons-product-04.png",
             "title": "Returlapp i pakken og gratis bytte",
             "text": "",
             "link_label": "",
@@ -66,7 +63,6 @@
         "16606547378d6748fc-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/usp-icons-product-03.png",
             "title": "Kjøp nå, betal senere",
             "text": "",
             "link_label": "",
@@ -76,7 +72,6 @@
         "16606547378d6748fc-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/usp-icons-product-05.png",
             "title": "Fri frakt over 599",
             "text": "",
             "link_label": "",
@@ -148,10 +143,7 @@
     "9b125fe3-645c-4e1d-ba53-95e8639d56aa": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/banner-desktop-flared-pants-NO.jpg",
-        "image_mobile": "shopify:\/\/shop_images\/banner-mobile-flared-pants-NO.jpg",
         "image_url": "\/products\/grey-flared-yoga-pants-1?_pos=6&_sid=85856e444&_ss=r",
-        "image2_url": "",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "middle-center",
@@ -198,8 +190,6 @@
         "1660570459ecdaf28d-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/tights-1a.jpg",
-            "url": "https:\/\/famme.no\/collections\/treningstights",
             "title": "",
             "text": "",
             "link_label": "",
@@ -209,8 +199,6 @@
         "1660570459ecdaf28d-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/langermede-2.jpg",
-            "url": "\/collections\/long-sleeve-tops",
             "title": "",
             "text": "",
             "link_label": "",
@@ -220,8 +208,6 @@
         "1660570459ecdaf28d-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/sko-1a.jpg",
-            "url": "shopify:\/\/collections\/shoes",
             "title": "",
             "text": "",
             "link_label": "",
@@ -231,8 +217,6 @@
         "10a7abb5-b911-417a-bfa8-44d013a16de9": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/sports-bra-1a.jpg",
-            "url": "shopify:\/\/collections\/sports-bh",
             "title": "",
             "text": "",
             "link_label": "",
@@ -272,10 +256,7 @@
 
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/banner-FB-desktopNO.jpg",
-        "image_mobile": "shopify:\/\/shop_images\/banner-FB-mobileNO.jpg",
         "image_url": "https:\/\/www.facebook.com\/groups\/fammeproduktutvikling",
-        "image2_url": "",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
