@@ -143,6 +143,7 @@
     "9b125fe3-645c-4e1d-ba53-95e8639d56aa": {
       "type": "image-banner",
       "settings": {
+        "image": "shopify:\/\/shop_images\/front-alexa.jpg",
         "image_url": "\/products\/grey-flared-yoga-pants-1?_pos=6&_sid=85856e444&_ss=r",
         "image_overlay_opacity": 0,
         "image_height": "large",
@@ -256,6 +257,7 @@
 
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/front-helene.jpg",
         "image_url": "https:\/\/www.facebook.com\/groups\/fammeproduktutvikling",
         "image_overlay_opacity": 0,
         "image_height": "medium",
