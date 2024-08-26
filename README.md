@@ -1,4 +1,4 @@
-## Customization
+## Customization of dawn
 
 * Image banner with support for mobile and desktop: image-banner.liquid
 * A USP section on the product page: product-bullets.liquid
